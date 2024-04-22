@@ -28,10 +28,11 @@ npm run serve
 Open your browser and access http://localhost:3000 to begin creating your first engagement survey.
 
 ## Features
-Customizable Survey Templates: Choose from a variety of templates or create your own.
-Real-Time Analytics: Get instant insights from survey responses.
-User Management: Easily manage user roles and permissions within the platform.
-How to Contribute
++ Customizable Survey Templates: Choose from a variety of templates or create your own.
++Real-Time Analytics: Get instant insights from survey responses.
++User Management: Easily manage user roles and permissions within the platform.
+
+## How to Contribute
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate.
 
 ## Fork the repositor
